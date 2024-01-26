@@ -1,4 +1,4 @@
-// For use with WP plugin Age GamepadEvent. Put this script in the footer of the homepage
+// For use with WP plugin Age Gate. Put this script in the footer of the homepage
 
 var cookie_setter_orig = document.__lookupSetter__("cookie").bind(document);
 var cookie_getter_orig = document.__lookupGetter__("cookie").bind(document);
